@@ -1,2 +1,3 @@
 # Supervised-Learning---Foundations-Project-ReCell
-Project 3 of the University of Texas Data Science and Business Analytics program
+Analyzed the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
+
