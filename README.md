@@ -1,3 +1,4 @@
 # Supervised-Learning---Foundations-Project-ReCell
-Analyzed the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
+In this project, I worked with ReCell, a mock company, that is entering used and refurbished devices market, to develop a dynamic pricing strategy. Using a simulated dataset of used devices, I built a linear regression model to predict device prices and identified key factors driving price fluctuations. The project involved end-to-end data analysis: identifying and treating missing values and outliers, preparing the data for modeling, testing linear regression assumptions, and evaluating the model using various performance metrics. I provided actionable insights to guide ReCell’s pricing decisions and ensured the project had a clear, logical flow from data exploration to business recommendation. This experience strengthened my skills in predictive modeling, data cleaning, and translating technical work into strategic impact.
+
 
